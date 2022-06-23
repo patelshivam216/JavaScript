@@ -9,7 +9,7 @@ console.log("my name is " + name);// i can do this in java scripts
 
 // to see which data type is this 
 
-console.log("name's datatype is "+(typeof name));
+console.log("name datatype is "+(typeof name));
 
 
 // number 
